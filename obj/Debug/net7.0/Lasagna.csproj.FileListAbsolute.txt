@@ -1,0 +1,15 @@
+C:\Dev\Exercism\CSharp\Lasagna\bin\Debug\net7.0\Lasagna.exe
+C:\Dev\Exercism\CSharp\Lasagna\bin\Debug\net7.0\Lasagna.deps.json
+C:\Dev\Exercism\CSharp\Lasagna\bin\Debug\net7.0\Lasagna.runtimeconfig.json
+C:\Dev\Exercism\CSharp\Lasagna\bin\Debug\net7.0\Lasagna.dll
+C:\Dev\Exercism\CSharp\Lasagna\bin\Debug\net7.0\Lasagna.pdb
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.csproj.AssemblyReference.cache
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.AssemblyInfoInputs.cache
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.AssemblyInfo.cs
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.csproj.CoreCompileInputs.cache
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.dll
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\refint\Lasagna.dll
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.pdb
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\Lasagna.genruntimeconfig.cache
+C:\Dev\Exercism\CSharp\Lasagna\obj\Debug\net7.0\ref\Lasagna.dll
